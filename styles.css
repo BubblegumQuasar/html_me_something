@@ -1,11 +1,12 @@
 .header3{
-	font-size: 6px;
+	font-size: 14pt;
 }
 .paragraph{
-	font-size: 3px;
+	font-size: 10pt;
 }
 .header4{
-	font-size: 4px;
+	font-size: 12pt;
+	color: #990033
 }
 .pic{
 	/*height: 800px;
